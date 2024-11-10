@@ -43,10 +43,6 @@ a passionate Software Engineer focusing on Python, Django, and machine learning.
 Chess ♟ | Anime 🎌 | Graphic Designing 🎨 | Technology 💻
 
 ---
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YasoobRaza&show_icons=true&include_all_commits=true&count_private=true&theme=nightowl)
-
----
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/syed-yasoob-raza/))  
