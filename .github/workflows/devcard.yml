@@ -1,4 +1,4 @@
-name: DevCard
+name: Update Daily.dev DevCard
 
 on:
   schedule:
@@ -9,8 +9,7 @@ jobs:
   devcard:
     runs-on: ubuntu-latest
     steps:
-      - name: Update DevCard
-        uses: dailydev/action-devcard@v2
+      - name: Update devcard
+        uses: dailydev/devcard-action@v3
         with:
           devcard_id: ${{ secrets.DEVCARD_ID }}
-          commit_message: "chore: update daily.dev devcard"
