@@ -56,4 +56,4 @@ Chess ♟ | Anime 🎌 | Graphic Designing 🎨 | Technology 💻
 ![Profile Views](https://komarev.com/ghpvc/?username=YasoobRaza&color=green)
 
 ---
-<a href="https://app.daily.dev/yasoobraza"><img src="https://api.daily.dev/devcards/v2/LvNy5bLpSYHigFAWwxmDl.png?type=wide&r=bec" width="652" alt="Yasoob Raza's Dev Card"/></a>
+<a href="https://app.daily.dev/yasoobraza"><img src="https://github.com/YasoobRaza/YasoobRaza/blob/main/devcard.svg" width="652" alt="Yasoob Raza's Dev Card"/></a>
