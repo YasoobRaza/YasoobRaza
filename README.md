@@ -58,7 +58,4 @@ Chess ♟ | Anime 🎌 | Graphic Designing 🎨 | Technology 💻
 ---
 ## My Dev Card
 
-<a href="https://app.daily.dev">
-  <img src="./devcard.png" width="400" alt="Yasoob's Dev Card"/>
-</a>
-
+<a href="https://app.daily.dev/yasoobraza"><img src="https://api.daily.dev/devcards/v2/LvNy5bLpSYHigFAWwxmDl.png?type=wide&r=aam" width="652" alt="Yasoob Raza's Dev Card"/></a>
